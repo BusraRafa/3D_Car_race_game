@@ -26,11 +26,7 @@ ups, the game ensures every moment is filled with excitement
  atmosphere, pulling players deeper into the futuristic world of
  Grid Auto Drive. So, buckle up and prepare to embark on an
  unforgettable journey where the skills and determination will
- determine players place among the grid-driving elite<br /><br />**II. PROPOSED METHODOLOGY**
-
-
-Our project named “GridAuto Drive” is a car speed con
-troller game. With starting the game, the player will be able
+ determine players place among the grid-driving elite<br /><br />**II. PROPOSED METHODOLOGY**<br /><br />Our project named “GridAuto Drive” is a car speed controller game. With starting the game, the player will be able
  to control the speed of the car and on the right side, other
  obstacles will be moving at their own speed. The goal of the
  player will be to control the speed of the car and to avoid
@@ -47,50 +43,39 @@ troller game. With starting the game, the player will be able
  will be the car and the other will be the obstacles. The obstacle
  will appear randomly and the car have to avoid all the obstacle.
  We will try to render the objects by implementing WebGL
- rendering. Some more detailed information:
- **Scene Setup:** Setting up a 3D scene using Three.js to render
+ rendering. Some more detailed information:<br />**Scene Setup:** Setting up a 3D scene using Three.js to render
  the game environment. Creating a camera that follows the car’s
  movements and provides a dynamic view of the race track. Set
- up lighting to illuminate the scene realistically.
- **Car and Controls:** Designing and modelling a 3D car
+ up lighting to illuminate the scene realistically.<br />**Car and Controls:** Designing and modelling a 3D car
  object using Three.js geometries and materials. Implementing
  keyboard controls to allow the player to move the car up,
  down, left, and right. Implementing a mechanism to increase
- the car’s speed gradually as the player maneuvers successfully.
- **Obstacles Generation:** Generating a variety of obstacles
+ the car’s speed gradually as the player maneuvers successfully.<br />**Obstacles Generation:** Generating a variety of obstacles
  (e.g., barriers, other vehicles) using Three.js geometries and
  materials. Placing obstacles on the race track at random
- intervals and positions to create challenge and excitement.
- Collision Detection: Implementing collision detection logic
+ intervals and positions to create challenge and excitement.<br />**Collision Detection:** Implementing collision detection logic
  to detect collisions between the car and obstacles. Upon
  collision, decrease the player’s score, slow down the car, and
- trigger visual/audio effects.
- **Scoring Mechanism:** Initializing the player’s score to 0 at
+ trigger visual/audio effects.<br /> **Scoring Mechanism:** Initializing the player’s score to 0 at
  the start of the game. Increment the score as the car success
 fully navigates through the obstacles. Display the current score
- prominently on the screen using HTML elements.
-**Game Over Conditions:** Monitoring the score continuously
+ prominently on the screen using HTML elements.<br />**Game Over Conditions:** Monitoring the score continuously
  during gameplay. If the score reaches-1000 or 1000, end the
  game. Displaying a ”Game Over” message at the center of the
- screen when the game ends.
- **Optimizations and Enhancements:** Implementing collision
+ screen when the game ends.<br />**Optimizations and Enhancements:** Implementing collision
  avoidance AI for computer-controlled opponents if desired.
  Add acceleration and deceleration mechanics to enhance the
  car’s movement realism. Implement visual effects like particle
  systems for skid marks, smoke, and exhaust. Design an en
 gaging race track environment with textures, decorations, and
- dynamic elements.
- **User Interface and Feedback:** Designing a user interface for
+ dynamic elements.<br />**User Interface and Feedback:** Designing a user interface for
  starting, pausing, and restarting the game. Provide feedback to
- the player through sounds, visual effects, and UI messages.
- **Game Loop:** Implementing a game loop using request
+ the player through sounds, visual effects, and UI messages.<br />**Game Loop:** Implementing a game loop using request
  AnimationFrame to continuously update the game’s state and
- render the scene.
- **User Experience and Testing:** Testing the game thoroughly
+ render the scene.<br />**User Experience and Testing:** Testing the game thoroughly
  to ensure smooth gameplay, collision accuracy, and proper
  functioning of game mechanics. Optimize performance for a
- smooth experience across various devices and browsers.
- **Deployment:** Hosting the game on a web server or platform
+ smooth experience across various devices and browsers.<br />**Deployment:** Hosting the game on a web server or platform
  for players to access and enjoy
 
 [click here to play](http://noiron.github.io/race-game-threejs/)
