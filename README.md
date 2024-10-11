@@ -56,11 +56,11 @@ troller game. With starting the game, the player will be able
  will appear randomly and the car have to avoid all the obstacle.
  We will try to render the objects by implementing WebGL
  rendering. Some more detailed information:
- **Scene Setup:** Setting up a 3D scene using Three.js to render
+ <br />**Scene Setup:** Setting up a 3D scene using Three.js to render
  the game environment. Creating a camera that follows the car’s
  movements and provides a dynamic view of the race track. Set
  up lighting to illuminate the scene realistically.
- **Car and Controls:** Designing and modelling a 3D car
+ <br />**Car and Controls:** Designing and modelling a 3D car
  object using Three.js geometries and materials. Implementing
  keyboard controls to allow the player to move the car up,
  down, left, and right. Implementing a mechanism to increase
