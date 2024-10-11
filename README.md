@@ -33,6 +33,8 @@ ups, the game ensures every moment is filled with excitement
 
 
 II. PROPOSED METHODOLOGY
+
+
 Our project named “GridAuto Drive” is a car speed con
 troller game. With starting the game, the player will be able
  to control the speed of the car and on the right side, other
