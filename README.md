@@ -1,7 +1,5 @@
 # GridAuto Drive(threejs)
-**I. INTRODUCTION**
- 
-Grid Auto Drive is an action-packed arcade-style game
+**I. INTRODUCTION**<br /><br />Grid Auto Drive is an action-packed arcade-style game
  that combines precision driving and tactical decision-making.
  In this futuristic world, the player takes on the role of
  a skilled pilot controlling an advanced autonomous vehicle
@@ -17,10 +15,7 @@ boggling twists and turns.Testing the players speed and agility
  challenging, and the goal is to survive for as long as the player
  can.The player immerges in the futuristic world of Grid Auto
  Drive with eye-catching graphics and a pulsating soundtrack
- that intensifies as you race through the grids.
- 
-
-The game offers an exhilarating and challenging gaming
+ that intensifies as you race through the grids.<br /><br />The game offers an exhilarating and challenging gaming
  experience that will keep the player hooked for hours. With
  its intricate grid mazes, diverse obstacles, and engaging power
 ups, the game ensures every moment is filled with excitement
@@ -31,10 +26,7 @@ ups, the game ensures every moment is filled with excitement
  atmosphere, pulling players deeper into the futuristic world of
  Grid Auto Drive. So, buckle up and prepare to embark on an
  unforgettable journey where the skills and determination will
- determine players place among the grid-driving elite
-
-
-**II. PROPOSED METHODOLOGY**
+ determine players place among the grid-driving elite<br /><br />**II. PROPOSED METHODOLOGY**
 
 
 Our project named “GridAuto Drive” is a car speed con
@@ -56,8 +48,8 @@ troller game. With starting the game, the player will be able
  will appear randomly and the car have to avoid all the obstacle.
  We will try to render the objects by implementing WebGL
  rendering. Some more detailed information:
- <br />**Scene Setup:** Setting up a 3D scene using Three.js to render
- the game <br />environment. Creating a camera that follows the car’s
+ **Scene Setup:** Setting up a 3D scene using Three.js to render
+ the game environment. Creating a camera that follows the car’s
  movements and provides a dynamic view of the race track. Set
  up lighting to illuminate the scene realistically.
  **Car and Controls:** Designing and modelling a 3D car
